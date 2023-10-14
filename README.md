@@ -85,6 +85,9 @@ mydb = mysql.connector.connect(
     )
 ```
 
+## Google Colab link:
+[Link to project](https://colab.research.google.com/drive/1stn-P91WmqaR7IZCPfCDqbCKZLQvLaHN?usp=sharing)
+
 
 # Hi, I'm Shivakumar Patil! 👋
 
